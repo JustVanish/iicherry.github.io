@@ -1,0 +1,12 @@
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(rgb(1, 236, 253), rgb(255, 255, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h2 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(rgb(132, 218, 76), rgb(255, 255, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
